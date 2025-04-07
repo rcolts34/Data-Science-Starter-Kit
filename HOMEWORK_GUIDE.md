@@ -2,6 +2,11 @@
 
  This will walk you through the steps to complete your data science homework based on Chapters 3 & 4 of *Introduction to Data Science*.
 
+ 2 spots below have a comment
+```python  
+##  etc..
+```
+Complete those spots before submission.
 
 
 ---
